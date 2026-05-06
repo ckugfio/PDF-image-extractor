@@ -609,41 +609,5 @@ git push -u origin main</code></pre>
 <tr><td>Image PDF</td><td>10MB</td><td>25</td><td>100</td><td>15-30 seconds</td></tr>
 <tr><td>Mixed PDF</td><td>25MB</td><td>100</td><td>50</td><td>30-60 seconds</td></tr>
 <tr><td>Large PDF</td><td>100MB</td><td>500</td><td>200</td><td>2-5 minutes</td></tr>
-</table>
-
-<h3>🎯 Future Enhancements</h3>
-<ul>
-<li><strong>More Formats:</strong> Support for BMP, TIFF, WEBP</li>
-<li><strong>OCR Integration:</strong> Text extraction capabilities</li>
-<li><strong>Batch Renaming:</strong> Custom naming patterns</li>
-<li><strong>Preview Mode:</strong> Thumbnail generation</li>
-<li><strong>Cloud Storage:</strong> Direct upload to cloud services</li>
-<li><strong>Plugin System:</strong> Extensible architecture</li>
-</ul>
-
-<h3>📞 Contact Information</h3>
-<ul>
-<li><strong>Project Repository:</strong> [GitHub URL]</li>
-<li><strong>Issues & Support:</strong> [GitHub Issues URL]</li>
-<li><strong>Documentation:</strong> [Wiki/Docs URL]</li>
-<li><strong>Community:</strong> [Discord/Forum URL]</li>
-</ul>
 
 ---
-
-<div id="footer">
-<h2>📄 Document Information</h2>
-<ul>
-<li><strong>Document Version:</strong> 1.0</li>
-<li><strong>Last Updated:</strong> 2026-05-06</li>
-<li><strong>Author:</strong> PDF Image Extractor Team</li>
-<li><strong>License:</strong> MIT License</li>
-<li><strong>Language:</strong> English</li>
-</ul>
-
-<p><em>This document provides comprehensive documentation for the PDF Image Extractor application. For the most up-to-date information, please visit the project repository.</em></p>
-</div>
-
----
-
-*End of Documentation*
