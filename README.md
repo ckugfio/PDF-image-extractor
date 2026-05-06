@@ -1,1 +1,1 @@
-# PDF-image-extractor
+# PDF image extractor
